@@ -1,4 +1,7 @@
 # projeto
+
+![alt text](foto-jogo-secreto.png)
+
 Olá, Bem vindo ao meu projeto git | github.
 
 ![alt text](img/ia.png)
