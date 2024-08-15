@@ -1,22 +1,15 @@
-# projeto
+# projeto número secreto
 
-![alt text](foto-jogo-secreto.png)
-
-Olá, Bem vindo ao meu projeto git | github.
-
-![alt text](img/ia.png)
+🔖Olá, Bem vindo ao meu projeto git e github utilizado nos cursos de lógica de programaão da Alura.
 
 ## Ferramentas utilizadas:
 
-* HTML
+*  ![alt text](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 
-* CSS
+* ![alt text](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
-* JavaScript
+* ![alt text](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-* Git
-
-* Github
 
 ## Feito por:
 
