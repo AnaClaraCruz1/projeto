@@ -1,6 +1,8 @@
 # projeto número secreto
 
-🔖Olá, Bem vindo ao meu projeto git e github utilizado nos cursos de lógica de programaão da Alura.
+🔖Olá, Bem vindo ao meu projeto git e github utilizado nos cursos de lógica de programaão da Alura
+
+![alt text](img/foto-jogo-secreto.png).
 
 ## Ferramentas utilizadas:
 
